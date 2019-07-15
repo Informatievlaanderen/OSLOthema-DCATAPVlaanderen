@@ -39,6 +39,10 @@
         "@id": "http://purl.org/dc/terms/accessRights",
         "@type": "@id"
       },
+    "toegangsURL": {
+      "@id": "http://www.w3.org/ns/dcat#accessURL",
+      "@type": "@id"
+    },
       "thema": {
         "@container": "@set",
         "@id": "http://www.w3.org/ns/dcat#theme",
