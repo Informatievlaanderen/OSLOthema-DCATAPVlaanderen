@@ -2,7 +2,7 @@
   "name": "DCAT-AP-VL-2.0",
   "type": "ap",
   "eap": "OSLO-DCATAPVL-AP.eap",
-  "diagram": "OSLO-DCATAPVL",
+  "diagram": "OSLO-DCATAPVL-2.0",
   "template": "dcatapvl20-ap.j2",
   "title": "DCAT-AP Vlaanderen",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
