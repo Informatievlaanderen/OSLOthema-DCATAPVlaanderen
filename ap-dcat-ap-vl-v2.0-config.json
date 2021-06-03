@@ -1,6 +1,6 @@
 {
   "naam": "Applicatieprofiel DCAT-AP VL 2.0",
-  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2019-10-03/DCAT-AP-VL.jsonld",
+  "rapport" : "https://github.com/Informatievlaanderen/OSLO-Generated/raw/test/report/doc/applicatieprofiel/DCAT-AP-VL/ontwerpstandaard/2021-05-27/all-DCAT-AP-VL-20.jsonld",
   "verantwoordelijke_organisatie": "Digitaal Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
   "publicatiedatum": "2021-06-04",
