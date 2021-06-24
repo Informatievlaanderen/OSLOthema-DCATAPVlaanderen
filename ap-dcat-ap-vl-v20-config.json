@@ -1,12 +1,12 @@
 {
   "naam": "Applicatieprofiel DCAT-AP VL 2.0",
-  "rapport" : "https://github.com/Informatievlaanderen/OSLO-Generated/raw/test/report/doc/applicatieprofiel/DCAT-AP-VL/ontwerpstandaard/2021-05-27/all-DCAT-AP-VL-20.jsonld",
+  "rapport": "https://github.com/Informatievlaanderen/OSLO-Generated/raw/test/report/doc/applicatieprofiel/DCAT-AP-VL/ontwerpstandaard/2021-05-27/all-DCAT-AP-VL-20.jsonld",
   "verantwoordelijke_organisatie": "Digitaal Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
   "publicatiedatum": "2021-06-04",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Applicatieprofiel",
-  "beschrijving" : "ap-dcat-ap-vl.md",
+  "beschrijving": "ap-dcat-ap-vl.md",
   "specificatiedocument": [
     {
       "naam": "DCAT-AP Vlaanderen",
@@ -15,24 +15,24 @@
   ],
   "documentatie": [
     {
-      "naam" : "DCAT-AP 1.2",
-      "waarde" : "https://joinup.ec.europa.eu/release/dcat-ap/12"
+      "naam": "DCAT-AP 1.2",
+      "waarde": "https://joinup.ec.europa.eu/release/dcat-ap/12"
     },
     {
-      "naam" : "DCAT-AP 2.0",
-      "waarde" : "https://github.com/SEMICeu/DCAT-AP/tree/2.0.1/releases/2.0.1"
+      "naam": "DCAT-AP 2.0",
+      "waarde": "https://github.com/SEMICeu/DCAT-AP/tree/2.0.1/releases/2.0.1"
     },
     {
-      "naam" : "Applicatieprofiel metadata DCAT",
-      "waarde" : "https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat"
+      "naam": "Applicatieprofiel metadata DCAT",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat"
     },
     {
-      "naam" : "W3C DCAT",
-      "waarde" : "https://www.w3.org/TR/vocab-dcat/"
+      "naam": "W3C DCAT",
+      "waarde": "https://www.w3.org/TR/vocab-dcat/"
     },
     {
-      "naam" : "W3C Review DCAT",
-      "waarde" : "https://w3c.github.io/dxwg/dcat/"
+      "naam": "W3C Review DCAT",
+      "waarde": "https://w3c.github.io/dxwg/dcat/"
     }
   ],
   "charter": [
@@ -42,8 +42,16 @@
     }
   ],
   "verslagen": [
+    {
+      "naam": "Opname Webinar 1",
+      "waarde": "https://digitaalvlaanderen.wetransfer.com/downloads/4bdc8ee41c37417a3a951a47accf872c20210622081033/fdc82b"
+    }
   ],
   "presentaties": [
+    {
+      "naam": "Presentatie Webinar 1",
+      "waarde": "Presentatie Webinar 1.pdf"
+    }
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie met betrekking Open Data catalogi in Vlaanderen.",
   "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
