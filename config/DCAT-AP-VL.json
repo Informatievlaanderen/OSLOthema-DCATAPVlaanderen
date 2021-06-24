@@ -5,13 +5,14 @@
   "diagram": "OSLO-DCATAPVL",
   "template": "dcatapvl-ap.j2",
   "title": "DCAT-AP Vlaanderen",
-  "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-  "publication-date": "21-12-2018",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/Standaard",
+  "publication-date": "13-06-2019",
+  "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "DCATAPVL",
   "site": "site-skeleton",
-  "feedbackurl": "https://github.com/Informatievlaanderen/OSLO-Discussion/issues?q=is%3Aopen+is%3Aissue+label%3AThema%2FDCAT-AP-VL",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kandidaat-standaarden/applicatieprofiel-dcat-ap-vl/applicatieprofiel-dcat-ap-vl.html",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-DCATAPVlaanderen/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/applicatieprofiel-dcat-ap-vl/applicatieprofiel-dcat-ap-vl.html",
   "dependencies": [
       ]
 }]
