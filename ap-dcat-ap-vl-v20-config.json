@@ -42,15 +42,16 @@
     }
   ],
   "verslagen": [
-    {
-      "naam": "Opname Webinar 1",
-      "waarde": "https://digitaalvlaanderen.wetransfer.com/downloads/4bdc8ee41c37417a3a951a47accf872c20210622081033/fdc82b"
-    }
+
   ],
   "presentaties": [
     {
       "naam": "Presentatie Webinar 1",
       "waarde": "Presentatie Webinar 1.pdf"
+    },
+    {
+      "naam": "Opname Webinar 1",
+      "waarde": "https://digitaalvlaanderen.wetransfer.com/downloads/4bdc8ee41c37417a3a951a47accf872c20210622081033/fdc82b"
     }
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie met betrekking Open Data catalogi in Vlaanderen.",
