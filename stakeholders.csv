@@ -1,17 +1,34 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;DCATAPVL;
-Bert;Van Nuffelen;Tenforce;bert.van.nuffelen@tenforce.com;http://tenforce.com;E;
-Dirk;De Baere;Informatie Vlaanderen;dirk.debaere@kb.vlaanderen.be;https://overheid.vlaanderen.be/informatie-vlaanderen;C;
-Geert;Van Haute;Departement Omgeving;geert.vanhaute@lne.vlaanderen.be;https://www.lne.be/;C;
-Geert;Van Gaever;Agentschap Wegen en Verkeer;geert.vangaever@mow.vlaanderen.be;http://wegenenverkeer.be/;C;
-Jens;Scheerlinck;PwC;jens.scheerlinck@pwc.com;http://www.pwc.be;E;
-Koen;Van Daele;Agentschap Onroerend Erfgoed;koen.vandaele@rwo.vlaanderen.be;https://www.rwo.be/;C;
-Mathias;De Schrijver;Informatie Vlaanderen;mathias.deschrijver@bz.vlaanderen.be;https://overheid.vlaanderen.be/;C;
-Peter;Desmet;Agentschap voor Natuur en Bos;;https://www.natuurenbos.be/;C;
-Joost;Schouppe;Provincie Limburg;;;C;
-Thomas;Polfliet;Vlaams Energiebedrijf;;;C;
-Ruben;Cappelle;Centrum voor Informatica voor het Brusselse Gewest;;;C;
-Gert;Van Oost;Stad Antwerpen;;;C;
-Natasha;Blommaert;Agentschap Wegen en Verkeer;natasha.blommaert@mow.vlaanderen.be;http://wegenenverkeer.be/;C;
-Raf;Buyle;Informatie Vlaanderen;raf.buyle@kb.vlaanderen.be;https://overheid.vlaanderen.be/informatie-vlaanderen;C;
-Sammy;Roos;DWVG;sammy.roos@wvg.vlaanderen.be;http://vlaanderen.be/welzijnengezondheid;C;
-Stijn;Goedertier;GIM;stijn.goedertier@gim.be;http://gim.be;C;
+Voornaam;Naam;Affiliatie;E-mail;Website;DCATAPVL
+Digitaal;Vlaanderen;;;;
+Bert;Van Nuffelen;Digitaal Vlaanderen;;;E
+Geraldine;Nolf;Digitaal Vlaanderen;;;A
+Eveline;Vlassenroot;Digitaal Vlaanderen;;;E
+Tom;Callens;Digitaal Vlaanderen;;;C
+Loes;Deventer;Digitaal Vlaanderen;;;C
+Wim;Joostens;Digitaal Vlaanderen;;;C
+Eline;Deweirdt;Digitaal Vlaanderen;;;C
+Dirk;De Baere;Digitaal Vlaanderen;;;A
+Mathias;De Schrijver;Digitaal Vlaanderen;;;A
+An;Heirman;GIM;;;C
+Mathieu;Chaussier;GIM;;;C
+Bart;Hanssens ;Federale Overheidsdienst Beleid en Ondersteuning;;;C
+Benoît;Fricheteau;Federale Overheidsdienst Financiën;;;C
+Dietger;Cleuren;Agentschap Wegen en Verkeer;;;C
+Kim;Duyvejonck;Agentschap Wegen en Verkeer;;;C
+Frederik;D'Haemer;District09;;;C
+Geert;Limpens;District10;;;C
+Pieter;Fannes;Departement Omgeving;;;C
+Geert;Van Haute;Departement Omgeving;;;C
+Joran;Van Daele;Stad Gent;;;C
+Havenbedrijf;Antwerpen;;;;C
+Inge;Lemmens;Havenbedrijf Antwerpen;;;C
+Niels;Vandekeybus;RedPencil;;;C
+Werkplaats;Immaterieel Erfgoed;;;;C
+Shana;Van Hauwermeiren;Werkplaats Immaterieel Erfgoed;;;C
+Stéphane;Coelis;DXC.technology;;;C
+Provincie;Antwerpen;;;;C
+Susy;Van Baelen; Provincie Antwerpen;;;C
+Tim;Coninx;De Lijn;;;C
+Vicky;Verscheijden;Stad Tongeren;;;C
+Myriam;Buyse;;;;C
+Willy;Smeulders;;;;C
