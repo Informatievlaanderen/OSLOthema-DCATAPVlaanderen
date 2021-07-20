@@ -43,19 +43,26 @@
   ],
   "verslagen": [
     {
-      "naam": "Verslag Webinar 1",
+      "naam": "Verslag Webinar 1 – 4 juni 2021",
       "waarde": "Verslag-DCAT-AP-VL-2.0-Webinar-1.pdf"
     }
-
   ],
   "presentaties": [
     {
-      "naam": "Presentatie Webinar 1",
+      "naam": "Presentatie Webinar 1 – 4 juni 2021",
       "waarde": "Presentatie Webinar 1.pdf"
     },
     {
-      "naam": "Opname Webinar 1",
+      "naam": "Opname Webinar 1 – 4 juni 2021",
       "waarde": "https://digitaalvlaanderen.wetransfer.com/downloads/4bdc8ee41c37417a3a951a47accf872c20210622081033/fdc82b"
+    },
+    {
+      "naam": "Presentatie Webinar 2 – 1 juli 2021",
+      "waarde": "Presentatie webinar 2 OSLO DCAT-AP VL 2.0.pdf"
+    },
+    {
+      "naam": "Opname Webinar 2 – 1 juli 2021",
+      "waarde": "https://digitaalvlaanderen.wetransfer.com/downloads/508771e571b569a32503263ee0966e4320210716133306/275ced"
     }
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie met betrekking Open Data catalogi in Vlaanderen.",
