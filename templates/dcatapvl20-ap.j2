@@ -52,9 +52,10 @@ In een dagdagelijks gesprek over datasets en hun onsluitingsvormen wordt de term
 </p><p>
 Om de catalogusbeheerders in Vlaanderen een uniformere aanpak te geven, wordt het volgende afgesproken. Een distributie zal voornamelijk gebruikt worden om een afgerond geheel van data aan te duiden. Iets dat  downloadbaar is als een file.
 Het is een welomschreven collectie van data vastgelegd door de uitgever. Dit uit zich in een downloadURL (of toegangsURL)  die toelaat om de data te bekomen zonder bijkomende data selectie configuratie door de gebruiker. 
-Een dataset is een abstracte entiteit (een naam voor een geheel aan data); een distributie van de dataset is een concrete vorm die de afnemer van de dataset lokaal kan gebruiken zonder enige andere systeemtoegang. Een distributie zal dus niet bestaan zonder een dataset.  
+Een dataset is een abstracte entiteit (een naam voor een geheel aan data); een distributie van de dataset is een concrete vorm die de afnemer van de dataset lokaal kan gebruiken zonder enige andere systeemtoegang. Een distributie zal dus niet bestaan zonder een dataset. 
+De afnemer heeft voor een distributie geen invloed op de bekomen data. Dat is vastgelegd door de uitgever van de dataset.
 </p><p>
-Alle andere vormen zullen als een dataservice beschreven worden. Een dataservice heeft dikwijls een hoge mate van onafhankelijkheid van een distributie (effectieve data) van een dataset; het kan zelfs meedere gebonden zijn aan meerdere datasets. Een dataservice biedt dikwijls een slimme toegang tot de data: de gebruiker kan via een query interface of parametrisatie de data opvragen naar zijn wensen. 
+Alle andere vormen zullen als een dataservice beschreven worden. Een dataservice heeft dikwijls een hoge mate van onafhankelijkheid van een distributie (effectieve data) van een dataset; het kan zelfs meedere gebonden zijn aan meerdere datasets. Een dataservice biedt dikwijls een slimme toegang tot de data: de gebruiker kan via een query interface of parametrisatie de data opvragen naar zijn wensen. De afnemer heeft hier dus wel invloed op de bekomen data. 
 </p>
 
 Enkele voorbeelden van distributies zijn:
@@ -73,7 +74,7 @@ Enkele voorbeelden van dataservices zijn:
 </ul>
 
 <p>
-Er zijn ook grensgevallen zoals Linked Data subjectpagina's. Dit is data gepubliceerd in een menselijk leesbare vorm. Men kan argumenteren dat dit een dataservice is omdat de gebuiker op een vrije wijze kan navigeren doorheen de data. Men kan het ook beschouwen als een collectie van html pagina's, die één voor één ophaalbaar is. Subjectpagina's komen dikwijls voor in de context van dereferenceable URIs. Daarin wordt via content negotatie de data aangeboden voor zowel menselijke als machinale verwerking. Voor de RDF representaties wordt vaak de gehele collectie aangeboden als één downloadbaar bestand, voor html pagina's is dit zelden het geval. 
+Er zijn ook grensgevallen zoals Linked Data subjectpagina's. Dit is data gepubliceerd in een menselijk leesbare vorm. Men kan argumenteren dat dit een dataservice is omdat de gebuiker op een vrije wijze kan navigeren doorheen de data. Men kan het ook beschouwen als een collectie van html pagina's, die één voor één ophaalbaar is. Subjectpagina's komen dikwijls voor in de context van dereferenceable URIs. Daarin wordt via content negotatie de data aangeboden voor zowel menselijke als machinale verwerking. Voor de RDF representaties wordt vaak de gehele collectie aangeboden als één downloadbaar bestand, voor html pagina's is dit zelden het geval. Bij voorkeur wordt een consensus gezocht om zulke grensgevallen uniform aan te pakken. Wanneer dit niet beschikbaar is, dan laten is het aan de uitgever om een keuze te maken. 
 </p>
  
 
