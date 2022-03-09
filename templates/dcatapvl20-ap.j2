@@ -40,7 +40,8 @@ De applicatie waarop dit profiel betrekking heeft is een Open Data Portaal in Vl
       <ul>
        <li>Zorg voor stabiele identificatoren voor datasets, en waar mogelijk ook voor alle andere vermelde entiteiten.</li>
        <li>Voor temporele informatie wordt verwacht dat de tijdszone wordt meegegeven.</li>
-       <li>Gebruik enkel absolute URLs. Dan is blijft onder alle verwerkingsoperaties van de catalogus de URL identiek en is er geen kwaliteitsverlies voor de gebruiker.</li>
+       <li>Gebruik enkel absolute URLs. Dan is blijft onder alle verwerkingsoperaties van de catalogus de URL identiek en is er geen kwaliteitsverlies voor de gebruiker.
+       Relatieve URLs worden geïnterpreteerd t.o.v. het document en dat levert in de praktijk ongewenste interpretatiefouten op. Daarom worden relatieve URLs niet toegelaten.</li>
        <li>Indien gekozen wordt om de geografische beschrijving als een geometrie mee te geven, dan wordt best gekozen voor een beschrijving met expliciete vermelding van het gebruikte Coordinaten Referentie Systeem (CRS). </li>
        <li>Beschrijvende informatie zoals titels en beschrijvingen zijn taalafhankelijk. Voorzie voor elke taal slechts één waarde.</li> 
       </ul>
