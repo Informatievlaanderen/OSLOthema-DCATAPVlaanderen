@@ -6,7 +6,7 @@
   "template": "dcatapvl20-ap.j2",
   "title": "DCAT-AP Vlaanderen",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
-  "publication-date": "02-12-2021",
+  "publication-date": "2022-04-21",
   "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "DCATAPVL",
