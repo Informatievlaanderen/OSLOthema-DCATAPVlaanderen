@@ -2,7 +2,7 @@
   "name": "DCAT-AP-VL-20",
   "type": "ap",
   "eap": "OSLO-DCATAPVL-AP.eap",
-  "diagram": "OSLO-DCATAPVL-2.0",
+  "diagram": "OSLO-DCATAPVL-2.1",
   "template": "dcatapvl20-ap.j2",
   "title": "DCAT-AP Vlaanderen",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
