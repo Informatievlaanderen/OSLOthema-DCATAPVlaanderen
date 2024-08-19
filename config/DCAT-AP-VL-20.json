@@ -12,7 +12,7 @@
   "contributors-column": "DCATAPVL",
   "site": "site-skeleton",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-DCATAPVlaanderen/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-dcat-ap-vl-2.0.html",
+  "standaardregisterurl": "https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/",
   "dependencies": [
       ]
 }]
