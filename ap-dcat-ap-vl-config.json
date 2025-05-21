@@ -1,6 +1,6 @@
 {
   "title": "Applicatieprofiel DCAT-AP VL",
-  "category": "Applicatieprofiel",
+  "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
   "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
   "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/HerroepenStandaard",
   "descriptionFileName": "ap-dcat-ap-vl.md",
